@@ -11,20 +11,41 @@ package person2;
  */
 public class Person2 {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        int age = 15;
-        double height = 0.1;
-        String firstname = "Percy";
-        String lastname = "Wang";
-        boolean AStudent = false;
-        System.out.println("My name is Percy Wang");
-        System.out.println("My name is" + firstname +"."+ lastname);
-        String hobby = "listening mustic";
-        String hobby2 = "Play League of legends.";
-        System.out.println("My hobby is" +" "+ hobby + " "+ "and" + " " +hobby2);
+    public String getFirstname() {
+        return Firstname;
+    }
+
+    public void setFirstname(String firstname) {
+        this.Firstname = firstname;
+    }
+
+    public String getLastname() {
+        return Lastname;
+    }
+
+    public void setLastname(String lastname) {
+        this.Lastname = lastname;
+    }
+
+    public String getPhonenumber() {
+        return Phonenumber;
+    }
+
+    public void setPhonenumber(String phonenumber) {
+        this.Phonenumber = phonenumber;
     }
     
-}
+    
+    
+        String Firstname;
+        String Lastname;
+        String Phonenumber;
+        
+        
+        public Person2(String fn, String ln, String pn) {
+            Firstname=fn;
+            Lastname=ln;
+            Phonenumber=pn;
+        }
+       
+}      
