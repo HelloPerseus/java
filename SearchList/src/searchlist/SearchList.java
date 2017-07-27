@@ -42,7 +42,7 @@ public class SearchList{
             
             
             ArrayList<String> a2 = new ArrayList();
-            
+                
             s.a2.add("A");
             s.a2.add("bunch");
             s.a2.add("of");
