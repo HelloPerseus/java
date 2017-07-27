@@ -1,0 +1,19 @@
+q
+What is the capital of California?
+a
+San Francisco
+Sacramento
+LA
+SJ
+c
+2
+
+q
+What is the capital of China?
+a
+Beijing
+Shanghai
+LA
+Xianggong
+c
+1
