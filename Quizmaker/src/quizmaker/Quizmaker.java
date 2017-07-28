@@ -63,7 +63,7 @@ public class Quizmaker {
         
         
         int rightnumber = 0;
-        int n=0;
+        int n=1;
         while (n<=10) {
             int random = (int) (Math.random() * questions.size());
             Question q =questions.get(random);
