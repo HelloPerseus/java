@@ -294,3 +294,508 @@ a
 c
 2
 
+q	
+Two methods of handling stress are emotion focused and problem focused.
+a
+1.True
+2.False
+c
+1
+
+q	
+Smoking is the leading preventable cause of death in the United States.
+a
+1.True
+2.False
+c
+1
+
+q		
+The most common cause of infertility in men is too many sperm.
+a
+1.True
+2.False
+c
+2
+
+q			
+Almost all adults can think reflectively, but few do it consistently.
+a
+1.True
+2.False
+c
+1
+
+q			
+Emotional intelligence is the opposite of cognitive intelligence.
+a
+1.True
+2.False
+c
+2
+
+q			
+Kohlberg's moral dilemmas are equally effective for measuring the moral development of people in any culture.
+a
+1.True
+2.False
+c
+2
+
+q			
+Gilligan suggested that women are more likely than men to base their moral judgments on their responsibilities to other people.
+a
+1.True
+2.False
+c
+1
+
+q			
+Compared to past generations, it is easier today for emerging adults to picture what they will be doing in the next 10 years.
+a
+1.True
+2.False
+c
+1
+
+q			
+According to the he spillover hypothesis, cognitive gains from work carry over to nonworking hours.
+a
+1.True
+2.False
+c
+1
+
+q			
+The prefix 'giga' means a million?
+a
+1.True
+2.False
+c
+2
+
+q
+Mount Aconcagua is the tallest mountain in the Americas?
+a
+1.True
+2.False
+c
+1
+
+q		
+The country Cameroon borders the Republic of the Congo?
+a
+1.True
+2.False
+c
+1
+
+q
+The Nintendo 64 game F-Zero-X contains Rainbow Road?
+a
+1.True
+2.False
+c
+1
+
+q			
+The last dynasty in China was the Chou?
+a
+1.True
+2.False
+c
+2
+
+q			
+Independence, Missouri was the start of the Oregon Trail during America's westward expansion?
+a
+1.True
+2.False
+c
+1
+
+q			
+Krypton's atomic number is 26?
+a
+1.True
+2.False
+c
+2
+
+q			
+Leif Ericson was the first person to cross the Atlantic?
+a
+1.True
+2.False
+c
+2
+
+q			
+FBI means Federal Bureau of Investigation?
+a
+1.True
+2.False
+c
+1
+
+q			
+Al Capone was arrested by the FBI for illegal alcohol sales?
+a
+1.True
+2.False
+c
+2
+
+q			
+There is such a country known as Benin.
+a
+1.True
+2.False
+c
+1
+
+q			
+In "The World Is Not Enough", Renard has been spotted in Cambodia.
+a
+1.True
+2.False
+c
+1
+
+q			
+Czar Nicholas II was executed in 1917?
+a
+1.True
+2.False
+c
+2
+
+q			
+Mary Shelley's married name was actually Wollstonecraft?
+a
+1.True
+2.False
+c
+2
+
+q			
+The city Alexandria was named after Alexander the Great?
+a
+1.True
+2.False
+c
+1
+
+q			
+Leningrad (St. Petersburg) suffered a siege of well over two years in WWII.
+a
+1.True
+2.False
+c
+1
+
+q			
+In Mario Kart 64, you flick the control stick twice to make the 'E's yellow.
+a
+1.True
+2.False
+c
+2
+
+q			
+Momentum is velocity multiplied by force.
+a
+1.True
+2.False
+c
+2
+
+q			
+A diode is an electrical component.
+a
+1.True
+2.False
+c
+1
+
+q			
+In the "Digimon" TV show, Megaseadramon is beat by MetalGreymon.
+a
+1.True
+2.False
+c
+2
+
+q			
+Jackie Robinson played for the Boston Braves.
+a
+1.True
+2.False
+c
+2
+
+q			
+The first set of Crayola crayons had eight colors?
+a
+1.True
+2.False
+c
+1
+
+q			
+The Beatles' song 'Come Together' was written in 1968?
+a
+1.True
+2.False
+c
+2
+
+q			
+Fort Knox is found in Washington D.C.
+a
+1.True
+2.False
+c
+2   
+
+q			
+Mitsubishi makes television sets.
+a
+1.True
+2.False
+c
+1   
+
+q			
+Insects outnumber humans 1,000 to one.
+a
+1.True
+2.False
+c
+2
+
+q			
+Table tennis balls have been known to travel off the paddle at speeds up to 160 km/h.
+a
+1.True
+2.False
+c
+1
+
+q			
+The giant squid has the second largest eyes in the world.
+a
+1.True
+2.False
+c
+2
+
+q			
+Your tongue is one of the only muscles in your body that is attached at one end.
+a
+1.True
+2.False
+c
+2
+
+q			
+Elwood Edwards did the voice for the AOL sound files (i.e "You've got Mail!").
+a
+1.True
+2.False
+c
+1
+
+q			
+A duck's quack doesn't echo, and no one knows why.
+a
+1.True
+2.False
+c
+1
+
+q			
+Americans are responsible for about 1/6 of the world's garbage annually.
+a
+1.True
+2.False
+c
+2
+
+q			
+Lizards can self-amputate their tails for protection. It grows back after a few months.
+a
+1.True
+2.False
+c
+1
+
+q			
+The most frequently named bugs from the Bible are: Locust: 24, Moth: 11, Grasshopper: 10, Scorpion: 9, Caterpillar: 9, and Bee: 4.
+a
+1.True
+2.False
+c
+2
+
+q			
+Dr. Seuss pronounced his name so that it would rhyme with rejoice.
+a
+1.True
+2.False
+c
+1
+
+q			
+The thyroid cartilage is more commonly known as the adams apple.
+a
+1.True
+2.False
+c
+1
+
+q			
+If you travel across Russia, you will cross eight time zones.
+a
+1.True
+2.False
+c
+2
+
+q			
+If you feed a seagull Alka-Seltzer, its stomach will explode.
+a
+1.True
+2.False
+c
+1
+
+q			
+The people of Italy eat more cheese than any other country in the world.
+a
+1.True
+2.False
+c
+2
+
+q			
+Mosquito repellents don't repel, They hide you.
+a
+1.True
+2.False
+c
+1   
+
+q			
+Karoke means "orchestra" in Japanese.
+a
+1.True
+2.False
+c
+2
+
+q			
+Adult elephants can't jump.
+a
+1.True
+2.False
+c
+1
+
+q			
+Horses fall asleep while standing.
+a
+1.True
+2.False
+c
+1
+
+q			
+Odontophobia is the fear of heights.
+a
+1.True
+2.False
+c
+2
+
+q			
+The amount of force used to bite a carrot is the same amount of force to bite your thumb off.
+a
+1.True
+2.False
+c
+2
+
+q			
+When you die, your hair still grows for a couple of weeks.
+a
+1.True
+2.False
+c
+2
+
+q			
+Mayonnaise takes the rings from glasses off when left on overnight.
+a
+1.True
+2.False
+c
+1
+
+q			
+The names of the two stone lions in front of the New York Public Library are Patience and Fortitude.
+a
+1.True
+2.False
+c
+1
+
+q			
+When you get burned, you should crack an egg, and you won't get a scar.
+a
+1.True
+2.False
+c
+1   
+
+q			
+China is the birthplace of tea.
+a
+1.True
+2.False
+c
+1 
+
+q			
+Adele: "Rolling in the Deep" wins song of the year in 59th Grammy.
+a
+1.True
+2.False
+c
+2
+
+q			
+"The United States drops an atomic bomb on Nagasaki" is the last event of WWII.
+a
+1.True
+2.False
+c
+1
+
+q			
+A mole can dig a tunnel that is 400 feet long in only one night.
+a
+1.True
+2.False
+c
+2
+
+q			
+Is study useful for everyone?
+a
+1.True
+2.False
+c
+2
+
+

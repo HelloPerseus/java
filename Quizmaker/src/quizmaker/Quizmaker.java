@@ -32,23 +32,24 @@ public class Quizmaker {
             ArrayList<String> a = new ArrayList();
             String c = "";
             while (currentLine != null) {
-                if (currentLine.equals("q")) {
+                if (currentLine.contains("q")) {
                     currentLine = reader.readLine();
                     q = currentLine;
                     currentLine = reader.readLine();
-                } else if (currentLine.equals("a")) {
+                } else if (currentLine.contains("a")) {
                     currentLine = reader.readLine();
-                    while (!currentLine.equals("c")) {
+                    while (!currentLine.contains("c")) {
                         a.add(currentLine);
                         currentLine = reader.readLine();
                     }
-                } else if (currentLine.equals("c")) {
+                } else if (currentLine.contains("c")) {
                     currentLine = reader.readLine();
                     c = currentLine;
                     currentLine = reader.readLine();
                 } else {
                     currentLine = reader.readLine();
                     Question question = new Question(q, a, c);
+                   
                     questions.add(question);
                     a = new ArrayList();
                 }
@@ -62,13 +63,14 @@ public class Quizmaker {
         
         
         int rightnumber = 0;
-        while (questions.size() > 0) {
+        int n=0;
+        while (n<=10) {
             int random = (int) (Math.random() * questions.size());
             Question q =questions.get(random);
             q.printQuestion();
             String correct = q.getCorrect();
             questions.remove(q);
-            
+            n++;
             String input = keyboard.nextLine();
             if (input.equals(correct)) {
                 rightnumber++;
