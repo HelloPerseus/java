@@ -9,6 +9,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 /**
  *
@@ -20,50 +21,61 @@ public class Quizmaker {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        ArrayList<Question> questions= new ArrayList();
+        System.out.println("Your gonna do 10 questions, type number 1 or 2 for each question. Good Luck!");
+        ArrayList<Question> questions = new ArrayList();
+        Scanner keyboard = new Scanner(System.in);
         //read in questions
-         try (BufferedReader reader = new BufferedReader(new FileReader("test.txt"))) {
+        try (BufferedReader reader = new BufferedReader(new FileReader("test.txt"))) {
 
             String currentLine = reader.readLine();
-            String q="";
-            ArrayList<String> a =new ArrayList();
-            String c ="";
+            String q = "";
+            ArrayList<String> a = new ArrayList();
+            String c = "";
             while (currentLine != null) {
                 if (currentLine.equals("q")) {
                     currentLine = reader.readLine();
                     q = currentLine;
-                }
-                else if (currentLine.equals("a")){
-                    currentLine=reader.readLine();
-                    while(!currentLine.equals("c")) {
+                    currentLine = reader.readLine();
+                } else if (currentLine.equals("a")) {
+                    currentLine = reader.readLine();
+                    while (!currentLine.equals("c")) {
                         a.add(currentLine);
-                        currentLine=reader.readLine();
+                        currentLine = reader.readLine();
                     }
-                }
-                else if (currentLine.equals("c")) {
-                    
-                    c =currentLine;
-                }
-                else {
-                    currentLine=reader.readLine();
+                } else if (currentLine.equals("c")) {
+                    currentLine = reader.readLine();
+                    c = currentLine;
+                    currentLine = reader.readLine();
+                } else {
+                    currentLine = reader.readLine();
                     Question question = new Question(q, a, c);
-                questions.add(question);
-                a= new ArrayList();
+                    questions.add(question);
+                    a = new ArrayList();
                 }
-            currentLine=reader.readLine();
-          
+                
+
             }
-       
-	}
-        catch (IOException e) {
+
+        } catch (IOException e) {
             e.printStackTrace();
-	}
-         
-         int random =1;
-         questions.get(random).printQuestion();
-         String correct = questions.get(random).getCorrect();
+        }
         
-         
+        
+        int rightnumber = 0;
+        while (questions.size() > 0) {
+            int random = (int) (Math.random() * questions.size());
+            Question q =questions.get(random);
+            q.printQuestion();
+            String correct = q.getCorrect();
+            questions.remove(q);
+            
+            String input = keyboard.nextLine();
+            if (input.equals(correct)) {
+                rightnumber++;
+            }
+        }
+        System.out.println("You got "+rightnumber+" out of 10 correct");
+
     }
-    
+
 }

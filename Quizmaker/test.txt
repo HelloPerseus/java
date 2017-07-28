@@ -1,19 +1,296 @@
 q
-What is the capital of California?
+Is Shanghai the capital of China?
 a
-San Francisco
-Sacramento
-LA
-SJ
+1.True
+2.False
 c
 2
 
 q
-What is the capital of China?
+(x+5)(x*5)=0   answer: x=0   Is the answer correct?
 a
-Beijing
-Shanghai
-LA
-Xianggong
+1.True
+2.False
 c
 1
+
+q
+In java the lane: System.out.println("U are stupid.") is true or false?
+a
+1.True
+2.False
+c
+2
+ 
+q
+Is Sydney the capital of Australia?
+a
+1.True
+2.False
+c
+2
+
+q
+2/1 = 1*2 ?
+a
+1.True
+2.False
+c
+1
+
+q
+The territory of U.S. is 8,608 mi²?
+a
+1.True
+2.False
+c
+1
+
+q
+Alaska is the biggest state of U.S.
+a
+1.True
+2.False
+c
+1
+
+q
+The financial theory is not important when you learn finance course.
+a
+1.True
+2.False
+c
+2
+
+q
+Coffee is not health.
+a
+1.True
+2.False
+c
+1
+
+q
+China is the oldest country in the world right now.
+a
+1.True
+2.False
+c
+1
+
+q
+China has nickname "world factory".
+a
+1.True
+2.False
+c
+1
+
+q
+Is square root of pi 1.7724538508
+a
+1.True
+2.False
+c
+2
+
+q
+The magnetic field at any given points is specified by both a direction a magnitude.
+a
+1.True
+2.False
+c
+1
+
+q
+If u cut an earthworm in half , both halves can regrow their body.
+a
+1.True
+2.False
+c
+2
+
+q
+Adults have fewer bones than babies do.
+a
+1.True
+2.False
+c
+1
+
+q
+There are more cells of bacteria in your body than there are human cells.
+a
+1.True
+2.False
+c
+1
+
+q
+Lightning never strikes in the same place twice.
+a
+1.True
+2.False
+c
+2
+
+q
+If you cry in space the tears just stick to your face.
+a
+1.True
+2.False
+c
+1
+
+q
+If you cut an earthworm in half, both halves can regrow their body.
+a
+1.True
+2.False
+c
+2
+
+q
+Humans can distinguish between over a trillion different smells.
+a
+1.True
+2.False
+c
+1
+
+q
+Adults have fewer bones than babies do.
+a
+1.True
+2.False
+c
+1
+
+q
+Napoleon Bonaparte was extremely short.
+a
+1.True
+2.False
+c
+2
+
+q
+Goldfish only have a memory of three seconds.
+a
+1.True
+2.False
+c
+2
+
+q
+There are more cells of bacteria in your body than there are human cells.
+a
+1.True
+2.False
+c
+1
+
+q
+Your fingernails and hair keep growing after you die.
+a
+1.True
+2.False
+c
+2
+
+q
+Birds are dinosaurs.
+a
+1.True
+2.False
+c
+1
+
+q
+It costs the U.S. Mint more to make pennies and nickels than the coins are actually worth.
+a
+1.True
+2.False
+c
+1
+
+q
+Water spirals down the plughole in opposite directions in the northern and southern hemispheres.
+a
+1.True
+2.False
+c
+2
+
+q
+Buzz Aldrin was the first man to urinate on the moon.
+a
+1.True
+2.False
+c
+1
+
+q
+Human is animal.
+a
+1.True
+2.False
+c
+1
+
+q
+Magnetic field sometimes called magnetic flux density.
+a
+1.True
+2.False
+c
+1
+
+q
+Human can't breathe and swallow at the same time.
+a
+1.True
+2.False
+c
+1
+
+q
+You hair keep growing after you die.
+a
+1.True
+2.False
+c
+1
+
+q
+Twinkies have an infinite shelf life.
+a
+1.True
+2.False
+c
+2
+
+q
+The popular image of Santa Claus – chubby, bearded, in red and white clothes – was invented by Coca-Cola for an ad campaign.
+a
+1.True
+2.False
+c
+2
+
+q
+The top of the Eiffel Tower leans away from the sun.
+a
+1.True
+2.False
+c
+1
+
+q
+Drinking alcohol kills brain cells.
+a
+1.True
+2.False
+c
+2
+
